@@ -1,0 +1,52 @@
+
+.header{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 2em;
+    text-align: right;
+}
+
+.body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:cadetblue;
+    
+}
+
+#intro{
+    font-size: 2.5em;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20%;
+    margin-top: -10%;
+}
+
+#introBody{
+    width: 30%;
+    margin-left: 20%;
+}
+
+#jeffPhoto{
+    width: 10%;
+    height: 30%;
+    margin-left: 55%;
+    margin-top: 10%;
+}
+
+#home{
+    color:navy;
+}
+
+#about{
+    color: navy;
+}
+
+#projects{
+    color: navy;;
+}
+
+#resume{
+    color: navy;
+}
+
+#contact{
+    color: navy;
+}
