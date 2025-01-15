@@ -79,7 +79,8 @@
 #creditcardterminalback{
     color: whitesmoke;
     background-color: darkolivegreen;
-    font-size: 15px;
+    font-family: "Roboto", serif;
+    font-size: 14px;
     width: 460px;
     height: 300px;
     margin-left: 25%;
