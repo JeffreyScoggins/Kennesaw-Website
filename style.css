@@ -233,7 +233,51 @@
     font-size: 18px;
     width: 30%;
     margin-left: 51%;
-
-    
-
 }
+
+#contactTitle{
+    color:whitesmoke;
+    font-size: 3.5em;
+    font-weight: bold;
+    font-family: "Edu AU VIC WA NT Hand", serif;
+    margin-top: 1%;
+    text-align: center;
+}
+
+#contactBody{
+    color:whitesmoke;
+    font-size: 18px;
+    text-align: center;
+}
+
+#map{
+    text-align: center;
+}
+
+#contactLogos{
+    text-align: center;
+}
+
+#email{
+    width: 75px;
+    height: 75px;
+    padding-right: 2%;
+}
+
+#instagram{
+    width: 75px;
+    height: 75px;
+    padding-right: 2%;
+}
+
+#linkedin{
+    width: 75px;
+    height: 75px;
+    padding-right: 2%;
+}
+
+#github{
+    width: 75px;
+    height: 75px;
+}
+
