@@ -201,3 +201,39 @@
     position: fixed;
 
 }
+
+#aboutTitle{
+    color:whitesmoke;
+    font-size: 3.5em;
+    font-weight: bold;
+    font-family: "Edu AU VIC WA NT Hand", serif;
+    margin-top: 1%;
+    text-align: center;
+}
+
+#aboutParagraph1{
+    color:whitesmoke;
+    font-size: 18px;
+    width: 30%;
+    margin-left: 51%;
+    margin-top: -2%;
+
+}
+
+#aboutParagraph2{
+    color:whitesmoke;
+    font-size: 18px;
+    width: 30%;
+    margin-left: 51%;    
+
+}
+
+#aboutParagraph3{
+    color:whitesmoke;
+    font-size: 18px;
+    width: 30%;
+    margin-left: 51%;
+
+    
+
+}
