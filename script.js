@@ -1,4 +1,4 @@
-console.log(googleapi);
+console.log($googleapi);
 
 function linkMouseOver(link){
 

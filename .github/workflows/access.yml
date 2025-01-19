@@ -4,6 +4,6 @@ jobs:
     steps:
       - name: Retrieve secret
         env:
-          super_secret: ${{ secrets.GOOGLEAPI }}
+          googleapi: ${{ secrets.GOOGLEAPI }}
         run: |
           example-command "$super_secret"
