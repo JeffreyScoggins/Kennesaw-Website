@@ -1,3 +1,5 @@
+console.log(googleapi);
+
 function linkMouseOver(link){
 
     link.style.color = 'red';
